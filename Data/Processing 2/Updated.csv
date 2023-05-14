@@ -1,0 +1,530 @@
+,Cultivar ID,vg0130976864,vg0135617816,vg0138428840,vg0405463422,vg0713178880,vg0819793460,vg1019044175,vg1123563633,vg1207667840,Cultivar Name,Subpopulation,Plant Height (cm)
+0,C001,G,C,T,T,T,T,C,C,C,Sadu-cho,Indica I,144.13
+1,C002,G,C,C,T,T,T,C,C,C,Dom_Sufid,VI/Aromatic,177.62
+2,C003,G,C,T,G,T,A,C,T,T,Gerdeh,Japonica Intermediate,141.57
+3,C004,G,C,T,G,A,A,C,T,C,Li-Jiang-Xin-Tuan-Hei-Gu_,Temperate Japonica,140.4
+4,C005,G,C,T,T,A,A,T,T,C,AZUCENA,Tropical Japonica,163.33
+5,C006,G,C,T,T,T,A,T,T,T,Shan-Huang_Zhan-2-1_,Indica Intermediate,108.23
+6,C007,G,C,T,T,T,A,T,T,T,Shan-Huang_Zhan-2-2_,Indica Intermediate,107.97
+7,C008,G,C,T,G,T,A,T,T,C,Swarna,Indica Intermediate,87.47
+8,C009,G,C,T,G,T,A,T,T,T,MOROBEREKAN,Indica Intermediate,106.8
+9,C010,G,C,T,G,T,A,C,T,T,CYPRESS,Tropical Japonica,106.7
+10,C011,G,C,T,G,T,A,T,T,T,MILYANG_23,Indica II,100.43
+11,C012,A,C,T,G,A,A,C,T,T,Tainong67,Temperate Japonica,114.1
+12,C013,G,C,C,T,T,T,C,T,C,N_22,Aus,150.43
+13,C014,A,C,T,G,T,A,T,T,T,M202,Japonica Intermediate,82.43
+14,C015,G,C,C,T,T,T,C,C,C,Dular,Aus,152.2
+15,C016,G,C,T,G,T,A,C,C,T,Laoguangtou83,Temperate Japonica,77.73
+16,C017,A,C,T,G,T,A,C,T,T,AnnongwangengB-1,Temperate Japonica,92.67
+17,C018,A,C,T,G,T,A,C,T,T,AnnongwangengB-2,Temperate Japonica,78.27
+18,C019,G,C,T,T,T,A,T,T,T,Aijiaonante,Indica I,80.25
+19,C020,G,C,T,T,T,A,T,C,T,Guangluai-4-1,Indica I,78.17
+20,C021,G,C,T,T,T,A,T,C,T,xiangaizao10,Indica I,80.83
+21,C022,G,C,T,G,T,A,T,T,T,JinnanteB,Indica I,77.3
+22,C023,G,C,T,G,T,A,C,T,T,Funingzipi,Temperate Japonica,89.39
+23,C024,A,C,T,T,T,A,T,C,T,zhenshan97B-1,Indica I,85.33
+24,C025,G,C,T,G,T,A,T,T,T,Qingsiai16B,Indica Intermediate,82.83
+25,C026,A,C,T,G,T,A,C,T,T,Weiguo,Temperate Japonica,104.7
+26,C027,G,C,T,G,T,A,T,T,C,Dianrui409B,Indica Intermediate,100.47
+27,C028,A,C,T,G,T,A,C,T,T,Liaogeng287,Temperate Japonica,86.97
+28,C029,A,C,T,G,T,A,C,T,T,Huhui628,Japonica Intermediate,94.0
+29,C030,G,C,T,T,T,A,T,T,T,88B-1,Indica Intermediate,99.57
+30,C031,G,C,T,T,T,A,T,T,T,88B-2,Indica Intermediate,96.27
+31,C032,A,C,T,G,T,A,C,T,T,Longhuamaohu,Temperate Japonica,107.8
+32,C033,G,C,T,T,T,A,T,C,T,Lucaihao,Indica I,132.04
+33,C034,G,C,T,G,T,A,C,T,T,Zhonglouyihao1,Temperate Japonica,110.5
+34,C035,A,C,T,G,T,A,C,T,T,Yelicanghua,Temperate Japonica,102.58
+35,C036,G,C,T,T,T,T,T,C,T,Shufeng101,Indica Intermediate,95.07
+36,C037,G,C,T,T,T,A,T,T,T,Chengduai3hao,Indica I,105.33
+37,C038,G,C,T,T,T,A,T,T,T,Sankecui,Indica Intermediate,101.33
+38,C039,G,C,T,T,T,A,T,C,T,Gongju73,Indica I,109.43
+39,C040,G,C,T,G,T,A,T,C,T,Jiabala,Indica I,102.46
+40,C041,G,C,T,T,T,A,T,T,C,Taishannuo,Indica I,113.1
+41,C042,G,C,T,G,T,A,T,T,T,Guichao2hao,Indica Intermediate,103.67
+42,C043,G,C,T,G,T,A,T,T,T,Huke3hao,Indica I,106.33
+43,C044,G,C,T,T,T,A,T,T,T,Teqingxuanhui,Indica Intermediate,104.33
+44,C045,G,C,T,G,T,A,T,T,C,Huangsiguizhan,Indica Intermediate,106.23
+45,C046,G,C,T,T,T,A,T,T,T,Xiangwanxian3hao,Indica Intermediate,172.37
+46,C047,G,C,C,T,T,T,T,T,T,Hanmadao-2,Indica I,97.53
+47,C048,A,C,T,G,T,A,C,T,T,Zaoshunonghu6,Temperate Japonica,97.33
+48,C049,G,C,T,G,T,A,T,T,T,Jinyou1hao,Indica Intermediate,103.13
+49,C050,G,C,T,G,T,A,T,T,T,Chengnongshuijing,Indica II,108.81
+50,C051,A,C,T,G,T,A,T,T,T,PeiC122,Intermediate,99.9
+51,C052,A,C,T,G,T,A,C,T,C,Guihuahuang,Temperate Japonica,107.0
+52,C053,G,C,T,G,T,A,T,T,T,Momi,Indica Intermediate,116.63
+53,C054,G,C,T,G,T,A,C,T,T,Xiushui115,Temperate Japonica,97.9
+54,C055,G,C,C,T,T,A,T,T,T,Sanbaili,Indica I,119.03
+55,C056,G,C,T,G,T,A,C,C,T,Jindao1hao,Temperate Japonica,99.03
+56,C057,A,C,T,G,T,A,C,T,T,Dandongludao,Japonica Intermediate,123.63
+57,C058,G,C,T,T,T,A,T,C,T,Liusha1hao,Indica I,103.7
+58,C059,G,C,T,T,T,A,T,C,T,Bawangbian1,Indica I,113.43
+59,C060,G,C,T,T,T,A,T,C,C,Dongtingwanxian,Indica I,114.73
+60,C061,G,C,T,G,T,A,T,T,T,Yangdao2hao,Indica II,109.37
+61,C062,G,C,T,G,T,A,T,T,T,WH62,Indica I,105.5
+62,C063,A,C,T,G,A,A,C,C,C,Geng87-304,Temperate Japonica,115.54
+63,C064,A,C,T,G,T,A,C,T,T,Sugeng2hao,Temperate Japonica,103.3
+64,C065,G,C,T,G,T,A,T,T,T,Hongwan1hao,Indica Intermediate,109.07
+65,C066,G,C,T,G,T,T,T,T,C,Liushizao,Indica I,120.27
+66,C067,G,C,T,G,T,A,C,T,C,Muxiqiu,Temperate Japonica,117.93
+67,C068,G,C,T,G,T,A,T,T,T,Taizhongxianxuan2,Indica II,109.6
+68,C069,G,C,T,G,T,A,T,T,T,Dangyu5hao,Indica II,115.8
+69,C070,G,C,T,G,A,A,C,T,T,Youmangzaogeng,Temperate Japonica,97.8
+70,C071,G,C,T,G,T,A,C,T,C,Laohuzhong,Temperate Japonica,128.2
+71,C072,G,C,T,T,T,T,T,T,T,Nantehao,Indica I,158.07
+72,C073,G,C,C,T,T,T,T,T,C,Esiniu,Indica I,167.83
+73,C074,G,C,T,G,T,A,C,T,C,cunsanli,Temperate Japonica,143.65
+74,C075,G,C,T,G,T,A,C,T,C,Huangkezaonian,Temperate Japonica,131.3
+75,C076,G,C,C,T,T,A,T,C,C,Benbanggu-1,Indica I,127.36
+76,C077,G,C,C,T,T,A,T,C,C,Benbanggu-2,Indica I,149.8
+77,C078,G,C,T,T,T,T,T,T,C,Qitoubaigu,Indica Intermediate,172.4
+78,C079,G,C,T,G,A,A,C,T,C,Muguanuo-1,Temperate Japonica,143.32
+79,C080,G,C,C,T,T,T,T,T,T,Hanmadao-1,Indica I,170.53
+80,C081,G,C,C,T,T,A,T,C,C,Heidu4,Indica I,155.8
+81,C082,G,C,T,G,T,A,C,T,C,Gaoyangdiandao,Temperate Japonica,156.46
+82,C083,G,C,T,G,A,A,T,C,T,chikenuo,Temperate Japonica,174.7
+83,C084,G,C,T,G,T,A,C,C,C,Haobuka,Japonica Intermediate,157.62
+84,C085,G,C,T,G,T,A,C,C,C,Shanjiugu,Japonica Intermediate,147.1
+85,C086,G,C,C,T,T,A,C,T,C,Fanhaopi,Aus,147.17
+86,C087,G,C,T,T,A,A,C,T,T,Lixingeng,Temperate Japonica,141.27
+87,C088,G,C,C,T,T,T,T,T,C,Nangaogu-2,Indica I,135.4
+88,C089,G,C,T,G,T,A,C,T,T,Tieganwu,Temperate Japonica,142.43
+89,C090,G,C,C,T,T,A,T,T,T,Sanlicun,Indica Intermediate,177.29
+90,C091,G,C,T,T,T,A,T,T,C,Meihuanuo-1,Indica I,170.07
+91,C092,G,C,T,T,T,A,T,T,C,Meihuanuo-2,Indica I,168.47
+92,C093,G,C,T,G,A,A,C,T,C,Xiangnuo-2,Temperate Japonica,164.73
+93,C094,G,T,T,G,T,A,T,T,C,Menjiagao1,Indica Intermediate,154.87
+94,C095,G,C,C,G,T,T,T,T,C,Xiaohonggu,Indica I,163.37
+95,C096,G,C,C,T,T,T,T,T,C,Jinxibai-1,Indica Intermediate,166.4
+96,C097,G,C,C,T,T,T,T,T,T,Jinbaoyin,Indica Intermediate,172.2
+97,C098,G,C,C,T,T,A,C,T,C,Hongainuo,Indica Intermediate,178.27
+98,C099,G,C,T,G,T,T,T,T,C,WH099,Indica Intermediate,176.8
+99,C100,G,C,C,T,T,T,T,T,C,WH100,Indica Intermediate,166.45
+100,C101,G,C,T,G,A,A,C,C,C,Babaili,Temperate Japonica,192.07
+101,C102,G,C,C,G,T,A,T,T,T,Qiyuexian,Indica Intermediate,150.67
+102,C103,G,C,T,G,A,A,C,T,C,Yuyannuo-1,Temperate Japonica,202.07
+103,C104,G,C,C,T,T,T,T,T,T,Mamagu-1,Indica I,179.14
+104,C105,G,C,T,T,T,A,T,T,T,WH105,Indica Intermediate,170.17
+105,C106,G,C,T,G,A,A,C,C,C,Hongkezhenuo,Temperate Japonica,191.0
+106,C107,G,C,T,T,T,T,T,T,T,Mowanggunei-2,Indica III,193.67
+107,C108,G,C,C,T,T,T,T,T,T,Mamagu-2,Indica I,156.8
+108,C109,G,C,C,T,T,T,T,T,T,WH109,Indica I,162.1
+109,C110,G,C,C,T,T,A,T,T,C,Xianggu,Indica I,159.33
+110,C111,G,C,T,G,A,A,C,C,C,Ximaxian,Temperate Japonica,206.13
+111,C112,G,C,T,T,T,A,T,T,T,Jinnante43B,Indica I,77.43
+112,C113,G,C,T,T,T,A,T,T,T,Xiangzaoxian7hao,Indica Intermediate,73.77
+113,C114,A,C,T,T,T,A,T,C,T,80B,Indica Intermediate,86.87
+114,C115,G,C,T,G,T,A,T,T,T,WH115,Indica II,80.4
+115,C116,A,C,T,G,T,A,C,T,T,LimingB,Temperate Japonica,87.03
+116,C117,G,C,T,T,T,A,T,T,T,Jiangnongzao1hao,Indica Intermediate,110.43
+117,C118,G,C,T,G,T,A,C,T,T,Gu154,Indica II,88.27
+118,C119,A,C,T,G,T,A,T,T,T,Ninghui21,Temperate Japonica,86.17
+119,C120,A,C,T,G,A,A,C,C,T,Shuiyuan300li,Temperate Japonica,97.63
+120,C121,G,C,T,T,T,T,T,C,T,XiangaiB,Indica Intermediate,150.67
+121,C122,G,C,T,T,T,A,T,C,T,Aituogu151,Indica I,118.1
+122,C123,G,C,T,G,A,A,C,T,T,Taidongludao,Tropical Japonica,118.83
+123,C124,G,C,T,T,T,A,C,T,T,menjiading2,Indica Intermediate,110.27
+124,C125,G,C,C,G,T,A,T,T,C,Jiefangxian,Indica I,145.65
+125,C127,G,C,T,T,T,A,T,T,C,Baikehualuo,Indica I,152.54
+126,C128,G,C,T,T,T,T,T,C,C,Liuyezhan,Indica I,158.23
+127,C129,G,C,C,T,T,T,T,T,C,Aihechi,Indica Intermediate,166.87
+128,C130,G,C,T,G,A,A,C,T,C,Xiangnuo-1,Temperate Japonica,155.4
+129,C131,G,C,T,T,T,A,T,T,C,Xuanenchangtan,Indica I,165.07
+130,C132,G,C,C,T,T,A,T,T,T,Jinzhinuo,Indica Intermediate,169.67
+131,C133,G,C,T,G,A,A,C,T,C,Muguanuo-2,Temperate Japonica,170.8
+132,C134,G,C,T,T,A,A,C,C,C,Wuzidui,Temperate Japonica,172.46
+133,C135,G,C,C,T,T,T,T,T,C,Xibaizhan,Indica I,136.39
+134,C136,G,C,C,T,T,T,T,T,C,Zegu,Indica I,182.14
+135,C137,G,C,T,G,A,A,C,C,C,Cungunuo,Temperate Japonica,170.0
+136,C138,G,C,T,G,T,A,C,T,C,Lengshuigu,Temperate Japonica,190.9
+137,C139,G,C,T,T,T,T,C,T,C,WH139,Indica I,185.33
+138,C140,G,C,C,T,T,A,T,T,C,Wuzuhonggu,Indica I,164.4
+139,C141,G,C,C,T,T,T,T,T,C,Nangaogu-1,Indica I,190.93
+140,C142,G,C,T,T,T,T,T,T,T,Mowanggunei-1,Indica III,198.57
+141,C143,G,C,C,G,T,A,T,T,C,Qitougu,Indica I,170.36
+142,C144,G,C,T,T,A,A,C,C,C,Huangpinuo,Temperate Japonica,206.73
+143,C145,A,C,T,T,T,A,T,C,T,Zhenshan97B,Indica I,92.33
+144,C146,A,C,T,G,T,A,C,T,T,Nipponbare,Temperate Japonica,74.7
+145,C147,G,C,T,G,T,A,T,T,T,Minghui63,Indica II,108.1
+146,C148,G,C,T,G,T,A,T,T,T,9311,Indica II,117.2
+147,C149,A,C,T,G,A,A,C,C,T,Zhonghua11,Temperate Japonica,102.47
+148,C150,A,C,T,G,T,A,C,T,T,Balilla,Temperate Japonica,90.32
+149,C151,G,C,T,T,T,A,T,T,T,Nanjing11,Indica I,107.73
+150,C152,A,C,T,G,T,A,C,T,T,02428,Temperate Japonica,100.0
+151,C153,G,C,T,G,A,A,T,T,T,IRAT109,Tropical Japonica,105.07
+152,C154,A,C,T,G,T,A,C,T,T,Heigeng2hao,Temperate Japonica,77.43
+153,C155,G,C,T,T,T,A,T,C,T,Erjiunan1hao,Indica I,69.47
+154,C156,G,C,T,T,T,A,T,C,T,ChaoyangyihaoB,Indica I,73.13
+155,C157,G,C,T,G,T,A,T,C,T,L301B,Indica I,75.1
+156,C158,G,C,T,T,T,A,T,C,T,Guangluai15,Indica I,85.17
+157,C159,G,C,T,T,T,A,T,C,T,ZhuzhenB,Indica I,95.8
+158,C160,G,C,T,T,T,A,T,T,T,Baoxie-7B,Indica Intermediate,83.68
+159,C161,G,C,T,T,T,A,T,C,T,Gzhenshan97B,Indica I,93.5
+160,C162,G,C,T,T,T,T,T,T,T,Nanxiongzaoyou,Indica Intermediate,97.77
+161,C163,G,C,T,G,T,A,T,T,T,Zaoshuxianghei,Indica II,104.17
+162,C164,G,C,T,G,T,A,T,T,T,IR661-1,Indica II,95.53
+163,C165,G,C,T,T,T,A,T,T,T,Nanjing11-2,Indica I,96.03
+164,C166,G,C,T,G,T,A,T,T,T,Gui630,Indica Intermediate,94.73
+165,C167,G,C,T,T,T,A,T,T,T,76--1,Indica Intermediate,108.23
+166,C168,G,C,T,G,T,A,T,T,T,Xugunuo,Indica Intermediate,104.87
+167,C169,G,C,T,T,T,A,T,T,T,Taizhongzailai1,Indica Intermediate,118.07
+168,C170,G,C,T,T,T,A,T,T,T,Xiangwanxian1hao,Indica I,94.87
+169,C171,G,C,T,G,T,A,C,T,C,Xingguo,Temperate Japonica,140.61
+170,C172,A,C,T,G,A,A,C,C,T,Zhonghua8hao,Temperate Japonica,102.37
+171,C173,G,C,T,T,T,T,T,T,C,Aimakang,Indica I,114.4
+172,C174,G,C,T,G,T,A,T,T,T,JWR221,Indica II,111.43
+173,C175,G,C,T,T,T,T,T,T,T,Zhengxian232,Indica Intermediate,111.2
+174,C176,G,C,T,T,T,A,T,T,C,Chenwan3hao,Indica Intermediate,97.67
+175,C177,A,C,T,G,T,A,C,T,T,Maguzi,Temperate Japonica,112.87
+176,C178,G,C,T,G,T,A,T,T,T,Aimi,Indica I,107.67
+177,C179,G,C,T,G,T,A,C,T,C,Haobayong1,Temperate Japonica,133.53
+178,C180,G,C,T,T,T,T,T,C,C,Wanlixian,Indica I,147.15
+179,C181,G,C,T,G,T,A,C,T,T,Feidongtangdao,Temperate Japonica,137.9
+180,C182,G,C,C,T,T,A,T,T,C,Hengxianliangchun,Indica I,161.2
+181,C183,G,C,T,T,T,T,T,C,C,Leihuozhan,Indica I,160.57
+182,C184,G,C,C,T,T,A,T,C,C,Baikezaohe,Indica I,156.17
+183,C185,A,C,T,G,T,A,C,T,C,Haomake(K),Japonica Intermediate,145.0
+184,C186,G,C,T,G,T,A,C,T,C,Sanbangqishiluo,Japonica Intermediate,180.0
+185,C187,G,C,T,G,T,A,C,T,T,Niankenuo,Temperate Japonica,144.47
+186,C188,G,C,T,G,T,A,C,T,T,Yangkenuo,Temperate Japonica,137.8
+187,C189,G,C,T,G,A,A,C,T,T,Putaohuang,Temperate Japonica,162.36
+188,C190,G,C,C,T,T,T,T,T,C,Xiangdao,Indica I,160.9
+189,C191,G,C,T,T,T,A,T,T,C,Younian,Indica I,171.27
+190,C192,G,C,T,T,T,T,T,T,T,Wukezhan,Indica Intermediate,185.07
+191,C193,G,C,T,T,T,T,T,C,C,Zhongnong4hao,Indica I,158.4
+192,C194,G,C,C,T,T,T,T,T,T,Minbeiwanxian,Indica Intermediate,173.4
+193,C195,G,C,T,G,T,A,C,T,T,Hongmisandan,Temperate Japonica,171.79
+194,C196,G,C,T,G,A,A,C,T,C,Yuyannuo-2,Temperate Japonica,193.0
+195,C197,G,C,C,T,T,A,T,T,T,Maweinian,Indica I,175.77
+196,C198,G,C,C,T,T,T,T,T,C,Zinuo,Indica Intermediate,173.77
+197,C199,G,C,C,T,T,T,T,T,C,Beizinuo,Indica I,187.53
+198,C200,G,C,C,T,T,T,T,T,C,Biwusheng,Indica I,189.1
+199,C201,G,C,C,T,T,T,T,T,C,Yizhixiang,Indica Intermediate,194.93
+200,C202,G,C,C,T,T,T,T,C,C,Xiaobaimi,Indica I,176.33
+201,C203,G,C,T,T,T,A,C,T,T,Zaoxian240,Indica I,77.33
+202,W001,G,C,C,T,T,A,T,C,C,Mayang_Khang,Indica I,146.4
+203,W002,G,C,T,T,A,A,T,T,C,E_B_Gopher,Tropical Japonica,157.4
+204,W003,A,C,T,G,A,A,C,T,C,C_5560,Tropical Japonica,140.4
+205,W004,G,C,T,T,A,A,T,T,C,Quinimpol,Tropical Japonica,158.2
+206,W005,G,C,T,G,A,A,T,T,T,TAICHU_MOCHI_59,Tropical Japonica,133.8
+207,W006,G,C,T,G,A,A,T,T,T,WC_2811,Tropical Japonica,149.8
+208,W007,G,C,T,G,A,A,T,T,C,Criollo_Chivacoa_2,Tropical Japonica,150.8
+209,W008,G,C,T,G,A,A,T,T,T,Secano_do_Brazil,Tropical Japonica,147.0
+210,W009,G,C,C,T,T,T,T,T,T,BERLIN,Indica III,193.8
+211,W010,A,C,T,G,T,A,C,T,T,Sel._No._388,Japonica Intermediate,135.0
+212,W011,G,C,T,G,A,A,C,T,T,SHIMIZU_MOCHI,Temperate Japonica,116.8
+213,W012,A,C,T,G,T,A,C,T,T,KRASNODARSKIJ_424,Temperate Japonica,100.8
+214,W013,A,C,T,G,T,A,C,T,T,Pergonil_15,Temperate Japonica,98.6
+215,W014,G,C,C,G,T,T,C,C,T,Red_Khosha_Cerma,VI/Aromatic,158.0
+216,W015,G,C,C,T,T,T,C,T,C,Safut_Khosha,Aus,157.8
+217,W016,A,C,T,G,T,A,C,T,T,NORIN_11,Temperate Japonica,78.8
+218,W017,G,C,T,G,A,A,T,T,T,R_75,Tropical Japonica,126.2
+219,W018,G,C,T,G,T,A,C,T,T,UZ_ROSZ_M38,Temperate Japonica,93.4
+220,W019,G,C,T,G,T,A,C,T,T,H57-3-1,Japonica Intermediate,124.8
+221,W020,G,C,C,G,T,T,T,C,C,IARI_6626,Aus,136.6
+222,W021,A,C,T,G,T,A,C,T,C,Khao_Luang,Japonica Intermediate,142.4
+223,W022,G,C,T,G,A,A,T,T,T,C_8429,Tropical Japonica,146.0
+224,W023,G,C,C,G,T,T,T,T,T,Warrangal_Culture_1252,Indica III,165.8
+225,W024,G,C,T,G,A,A,T,T,T,Padi_Pohon_Batu,Tropical Japonica,139.8
+226,W025,G,C,C,T,T,T,C,T,C,NC_1/536,Aus,154.2
+227,W026,G,C,C,G,T,T,T,T,C,Won_Son_Zo_No._11,Indica I,160.6
+228,W027,A,C,T,G,T,A,C,T,T,Chacareiro_Uruguay,Temperate Japonica,116.8
+229,W028,G,T,C,G,T,T,C,T,C,Doble_Carolina,Aus,164.2
+230,W029,G,C,T,T,T,A,T,C,C,Ai_Chueh_Ta_Pai_Ku,Indica Intermediate,147.8
+231,W030,G,C,C,G,T,A,C,T,T,Thang_10,Indica Intermediate,172.6
+232,W031,G,C,C,T,T,T,T,T,C,Sipirasikkam,Indica I,159.6
+233,W032,G,C,C,T,T,T,T,T,C,TJ,Indica I,159.6
+234,W033,G,C,T,G,T,T,T,T,C,PD_46,Indica I,155.0
+235,W034,G,C,C,T,T,T,C,T,C,PATNAI_6,Aus,165.8
+236,W035,G,C,C,T,T,A,C,T,C,K8C-263-3,Indica Intermediate,196.2
+237,W036,G,C,C,G,T,T,T,T,C,Chun_118-33,Indica I,157.8
+238,W037,G,C,C,G,T,T,C,T,C,Manga_Kely_694,Indica Intermediate,173.8
+239,W038,G,C,T,G,T,A,C,T,T,BLUE_STICK,Temperate Japonica,138.0
+240,W039,G,C,C,T,T,T,T,T,C,Nam_Dawk_Mai,Indica I,152.0
+241,W040,G,C,T,T,T,A,T,T,T,INIAP_7,Indica II,108.4
+242,W041,G,C,T,G,A,A,C,T,T,Onu_B,Tropical Japonica,169.4
+243,W042,G,C,C,T,T,T,C,T,C,Red,Indica Intermediate,185.4
+244,W043,G,C,T,T,T,A,T,T,T,Dichroa_Alef_Uslkij,Indica Intermediate,105.4
+245,W044,G,C,T,G,T,A,T,T,T,BKN_6987-68-14,Indica II,98.8
+246,W045,G,C,T,G,T,A,C,T,T,KUBANETS_508,Temperate Japonica,98.0
+247,W046,G,C,T,T,T,A,T,T,T,IR_9660-48-1-1-2,Indica II,96.0
+248,W047,G,C,C,T,T,A,C,C,T,Jumli_dhan,Japonica Intermediate,203.2
+249,W048,G,C,C,G,T,T,C,C,C,N-2703,Aus,190.2
+250,W049,G,C,C,G,T,A,C,T,C,PHUDUGEY,Aus,163.8
+251,W050,G,C,T,G,T,A,C,C,C,Ak_Tokhum,VI/Aromatic,174.8
+252,W051,G,C,T,G,T,A,T,T,T,RP2151-173-1-8,Indica II,107.4
+253,W052,A,C,T,G,T,A,C,T,T,HB-6-2,Temperate Japonica,98.6
+254,W053,G,C,T,G,A,A,T,T,T,GPNO_1106,Tropical Japonica,152.6
+255,W054,G,C,C,T,T,T,T,T,T,Toga,Indica Intermediate,190.2
+256,W055,G,C,T,G,A,A,C,T,T,Ragasu,Intermediate,171.4
+257,W056,G,C,T,G,A,A,C,T,T,Tamanishiki,Temperate Japonica,129.0
+258,W057,G,C,T,G,A,A,T,T,T,Grassy,Tropical Japonica,182.2
+259,W058,G,C,T,T,T,A,T,T,T,Kao_Chio_Lin_Chou,Indica I,150.6
+260,W059,G,C,T,G,T,A,C,T,T,Niwahutaw_Mochi,Temperate Japonica,115.8
+261,W060,A,C,T,G,A,A,C,T,T,Somewake,Temperate Japonica,119.4
+262,W061,A,C,T,G,T,A,C,T,T,Ardito,Japonica Intermediate,121.8
+263,W062,G,C,T,G,T,A,C,T,T,NANTON_NO._131,Tropical Japonica,153.4
+264,W063,A,C,T,G,T,A,C,T,T,Vary_Tarva_Osla,Japonica Intermediate,114.2
+265,W064,G,C,T,G,T,A,C,T,T,CSORNUJ,Temperate Japonica,106.2
+266,W065,G,C,T,G,A,A,T,T,T,R_67,Tropical Japonica,149.4
+267,W066,G,C,C,G,T,T,T,T,T,IR_238,Indica Intermediate,102.2
+268,W067,G,C,T,G,A,A,T,T,T,Mitak,Tropical Japonica,152.6
+269,W068,G,C,T,T,T,A,C,T,T,Gazan,Temperate Japonica,139.8
+270,W069,G,C,C,G,T,T,C,T,C,99216,Aus,146.4
+271,W070,G,C,T,G,T,A,C,T,T,Shui_Ya_Jien,Indica Intermediate,160.4
+272,W071,G,C,C,G,T,A,T,T,T,AKP_4,Indica Intermediate,104.6
+273,W072,G,C,C,T,T,T,C,T,C,SORNAVARI,Aus,154.0
+274,W073,G,C,T,T,T,A,T,T,C,IR_2061-214-2-3,Indica II,98.8
+275,W074,G,C,C,T,T,A,T,T,C,TAINUNG_45,Indica Intermediate,162.2
+276,W075,G,C,C,T,T,A,C,T,C,Sapundali_Local,Indica Intermediate,186.2
+277,W076,G,C,C,G,T,T,C,T,C,Tauli,Aus,155.0
+278,W077,G,C,C,T,T,T,C,C,C,79,VI/Aromatic,182.4
+279,W078,G,C,T,G,T,A,T,C,T,B805D-MR-16-8-3,Indica Intermediate,96.8
+280,W079,G,C,C,G,T,T,T,C,T,A_152,Intermediate,147.6
+281,W080,G,C,C,T,T,A,T,T,T,UZ_ROS_59,Indica I,141.4
+282,W081,G,C,C,G,T,A,C,C,C,Gasym_Hany,VI/Aromatic,130.2
+283,W082,G,C,T,G,T,A,C,T,C,Celiaj,Temperate Japonica,125.0
+284,W083,G,C,T,G,T,A,T,T,T,CNTLR80076-44-1-1-1,Indica Intermediate,116.4
+285,W084,G,C,T,T,T,T,T,T,C,IR_58614-B-B-8-2,Indica Intermediate,114.4
+286,W085,G,C,T,G,T,A,T,T,C,KECHENGNUO_NO._4,Indica Intermediate,118.6
+287,W086,G,C,T,G,T,A,T,T,T,4484,Indica II,103.4
+288,W087,A,C,T,G,T,A,T,T,T,YOU-I_B,Indica I,77.2
+289,W088,A,C,T,G,T,A,C,T,T,CHUNJIANGZAO_NO._1,Temperate Japonica,70.6
+290,W089,G,C,C,G,T,T,T,T,T,Egyptian_Wild_Type,Indica III,136.4
+291,W090,G,C,C,G,T,T,C,T,C,C.B._II,Aus,137.4
+292,W091,G,C,C,G,T,T,C,C,C,Gallawa,Aus,148.2
+293,W092,G,C,C,G,T,T,C,T,C,Karayal,Aus,144.8
+294,W093,G,C,C,G,T,T,T,T,T,Srav_Prapay,Indica III,133.0
+295,W094,G,C,C,G,T,T,C,T,C,Nang_Bang_Bentre,Aus,141.8
+296,W095,G,C,C,G,T,T,C,C,C,DJ_24,Aus,165.8
+297,W096,G,C,C,G,T,T,C,T,C,DJ_102,Aus,165.2
+298,W097,G,C,T,G,T,A,C,T,C,Santhi_990,Intermediate,137.0
+299,W098,G,C,C,G,T,T,C,T,C,UZ_ROS_7-13,Aus,158.8
+300,W099,G,C,C,G,T,T,C,T,C,SL_22-620,Aus,149.0
+301,W100,G,C,C,G,T,T,C,T,C,Spin_Mere,Aus,177.2
+302,W101,G,C,T,T,T,A,T,T,C,AMANE,Indica Intermediate,149.8
+303,W102,G,C,T,G,A,A,C,T,C,Padi_Tarab_Arab,Tropical Japonica,182.6
+304,W103,G,C,C,T,T,T,C,T,C,P_35,Aus,111.4
+305,W104,G,C,C,G,T,T,C,T,C,CAROLINO_164,Aus,145.4
+306,W105,G,C,C,T,T,A,C,T,C,HKG_98,Aus,156.6
+307,W106,G,C,C,G,T,T,C,T,T,Daudzai_Field_Mix,Aus,169.4
+308,W107,G,C,T,G,T,T,T,T,C,JP_5,Indica Intermediate,163.2
+309,W108,G,C,C,G,T,T,C,T,C,Hi_Muke,Aus,161.2
+310,W109,A,C,T,G,T,A,C,T,T,WIR_911,Temperate Japonica,99.4
+311,W110,G,C,T,T,A,A,T,T,C,Lua_Chua_Chan,Tropical Japonica,154.4
+312,W111,G,C,C,T,T,T,T,T,T,Sereno,Indica III,203.6
+313,W112,G,C,T,T,T,T,C,T,T,ARC_10633,Indica III,167.2
+314,W113,G,C,T,G,A,A,T,T,T,Simpor,Tropical Japonica,141.0
+315,W114,G,C,C,G,T,A,T,T,C,Heo_Trang,Indica III,181.4
+316,W115,G,C,C,G,T,T,C,T,C,THAVALU,Aus,153.4
+317,W116,G,C,T,T,A,A,C,T,T,WC_10253,Tropical Japonica,175.4
+318,W117,A,C,T,G,T,A,C,T,T,KRASNODARSKIJ_3352,Temperate Japonica,98.6
+319,W118,G,C,T,G,T,A,T,T,T,EMBRAPA_1200,Tropical Japonica,84.2
+320,W119,A,C,T,G,A,A,T,T,T,WAB462-10-3-1,Tropical Japonica,95.4
+321,W120,A,C,T,G,T,A,T,T,T,Bombilla,Temperate Japonica,109.6
+322,W121,G,C,C,T,T,T,C,T,C,TCHAMPA,Aus,177.6
+323,W122,G,C,T,G,T,A,C,T,C,BHIM_DHAN,Japonica Intermediate,169.8
+324,W123,G,C,T,G,A,A,T,T,T,WC_3532,Tropical Japonica,140.8
+325,W124,G,C,C,G,T,T,T,T,C,Kin_Shan_Zim,Indica I,134.0
+326,W125,A,C,T,G,T,T,C,T,T,Yong_Chal_Byo,Intermediate,152.0
+327,W126,G,C,C,T,T,T,T,T,C,Pan_Ju,Indica I,157.6
+328,W127,G,C,T,G,T,A,C,T,C,Buphopa,Japonica Intermediate,142.6
+329,W128,A,C,C,G,A,T,C,T,T,TAINO_38,Intermediate,149.8
+330,W129,G,C,C,T,T,A,C,T,C,2,VI/Aromatic,151.2
+331,W130,A,C,T,G,T,A,C,T,T,LUSITANO,Temperate Japonica,92.6
+332,W131,G,C,C,G,T,T,C,T,C,IARI_6621,Aus,161.0
+333,W132,G,C,T,T,T,T,T,C,C,Hsin_Hsing_Pai_Ku,Indica I,156.0
+334,W133,G,C,T,T,T,A,T,T,C,TD_70,Indica Intermediate,157.8
+335,W134,G,C,C,G,T,A,C,T,C,Dara,Aus,150.0
+336,W135,G,C,T,T,T,A,C,T,C,Shimla_Early,Indica Intermediate,172.8
+337,W136,G,C,C,T,T,T,C,C,C,LA_PLATA_GENA_F.A.,VI/Aromatic,188.6
+338,W137,G,C,C,T,T,A,C,T,C,CM1;_HAIPONG,Indica Intermediate,125.6
+339,W138,G,C,T,T,T,A,T,T,T,4595,Indica I,102.0
+340,W139,G,C,T,G,T,A,C,T,T,A_5,Temperate Japonica,96.4
+341,W140,G,C,C,T,T,T,C,T,T,Ittikulama,Aus,145.8
+342,W141,G,C,C,T,T,T,C,T,C,DNJ_179,Aus,151.6
+343,W142,G,C,C,G,T,T,C,T,C,DNJ_121,Aus,149.4
+344,W143,G,C,T,T,A,A,C,C,C,Jyanak,Japonica Intermediate,196.8
+345,W144,G,C,C,T,T,A,T,T,C,Ao_Chiu_2_Hao,Indica I,168.4
+346,W145,G,C,C,T,T,A,C,T,T,GUYANE_1,Indica Intermediate,177.4
+347,W146,G,C,C,G,T,A,T,T,T,10340,Indica I,127.4
+348,W147,G,C,T,G,T,T,T,T,T,BR11,Indica Intermediate,117.6
+349,W148,G,C,T,T,T,T,T,T,T,BR24,Indica Intermediate,168.4
+350,W149,G,C,T,T,T,A,T,T,T,93072,Indica Intermediate,112.6
+351,W150,G,C,T,T,T,A,T,T,T,108S,Indica II,104.6
+352,W151,G,C,T,T,T,A,T,T,T,C418,Indica II,98.0
+353,W152,G,C,T,T,T,A,T,T,T,CDR22,Indica II,110.0
+354,W153,G,C,T,G,T,A,T,T,T,Chenghui448,Indica II,103.8
+355,W154,G,C,T,G,T,T,T,T,T,Fengaizhan,Indica II,102.4
+356,W155,A,C,T,G,T,T,T,T,T,Gang46B,Indica Intermediate,98.4
+357,W156,G,C,T,T,T,A,T,T,T,Gumei2hao,Indica I,99.2
+358,W157,G,C,T,G,T,A,T,T,T,Huajingxian74,Indica Intermediate,95.2
+359,W158,A,C,T,G,T,A,C,T,T,M3122,Intermediate,107.2
+360,W159,G,C,T,G,T,A,T,T,T,R644,Indica II,95.2
+361,W160,A,C,T,G,T,A,C,T,T,Shennong265,Temperate Japonica,96.0
+362,W161,G,C,T,G,T,A,T,T,T,Y134,Indica II,102.0
+363,W162,A,C,T,G,T,A,C,T,T,Yuanjing7,Temperate Japonica,98.4
+364,W163,G,C,T,T,T,A,T,T,T,Yuexiangzhan,Indica Intermediate,91.4
+365,W164,G,C,T,T,T,A,T,T,T,Zaoxian14,Indica Intermediate,88.6
+366,W165,G,C,T,G,T,A,T,T,T,Zhong413,Indica Intermediate,103.8
+367,W166,G,C,T,G,T,A,T,T,T,Zhongyouzao81,Indica Intermediate,137.8
+368,W167,G,C,T,G,T,A,T,T,T,Zihui100,Indica Intermediate,135.2
+369,W168,G,C,T,G,T,A,T,T,T,Bg90-2,Indica II,101.4
+370,W169,G,C,T,T,T,A,T,T,T,IR72,Indica II,93.6
+371,W170,G,C,T,T,T,A,T,T,T,PR106,Indica II,90.6
+372,W171,G,C,T,G,T,A,C,T,T,TKM9,Indica Intermediate,96.8
+373,W172,G,C,T,G,T,T,T,T,T,Amo13_(Sana),Indica II,100.2
+374,W173,G,C,T,G,T,A,C,T,T,Khazar,Tropical Japonica,121.6
+375,W174,G,C,T,T,T,A,T,T,T,Gayabyeo,Indica II,84.0
+376,W175,G,C,T,T,T,A,C,T,T,Iksan438,Intermediate,101.0
+377,W176,G,C,T,G,T,A,T,T,T,Milyang23,Indica II,101.4
+378,W177,G,C,T,G,T,A,T,T,T,MR185,Indica II,100.0
+379,W178,G,C,C,G,T,A,T,T,T,Manawthukha,Indica III,97.8
+380,W179,G,C,T,T,T,A,T,T,T,Shwe_Thwe_Yin_Hyv,Indica II,93.8
+381,W180,G,C,T,T,T,A,T,T,T,Bg300,Indica Intermediate,108.0
+382,W181,G,C,T,T,T,T,T,T,T,Bg94-1,Indica Intermediate,105.8
+383,W182,G,C,T,G,T,A,T,T,T,CR203,Indica II,101.2
+384,W183,G,C,T,T,T,A,T,T,T,OM997,Indica II,96.6
+385,W184,G,C,T,G,T,A,T,T,T,PSB_RC_28,Indica II,98.0
+386,W185,G,C,T,T,T,A,T,T,T,PSB_RC_66,Indica II,95.6
+387,W186,G,C,T,G,T,A,T,T,T,TEQING,Indica Intermediate,98.2
+388,W187,G,C,T,G,T,A,T,T,T,IR68552-55-3-2,Indica Intermediate,105.2
+389,W188,G,C,T,G,T,A,T,T,C,IR66897B,Indica II,102.0
+390,W189,G,C,T,T,T,A,T,T,T,IR58025B,Indica II,114.2
+391,W191,G,C,T,G,T,T,T,T,C,Pusa_(Basmatil),Intermediate,121.0
+392,W192,G,C,T,G,T,T,T,T,C,ASD16,Intermediate,121.2
+393,W193,A,C,T,G,A,A,C,T,T,Dianjing,Temperate Japonica,121.4
+394,W194,G,C,T,G,T,T,T,T,T,F6,Indica II,108.8
+395,W195,G,C,T,G,T,A,T,T,T,452,Indica II,123.8
+396,W197,G,C,T,G,T,A,T,T,T,Ai-Zi-DAO,Indica II,112.8
+397,W198,G,C,C,T,T,A,T,T,C,Babaomi,Indica Intermediate,180.0
+398,W199,G,C,T,T,T,A,T,T,C,Diantun502,Indica Intermediate,125.2
+399,W200,G,C,T,T,T,A,T,T,T,Heiheaihui,Indica Intermediate,115.4
+400,W201,G,C,T,G,T,A,T,T,T,Jiangxisimiao,Indica Intermediate,108.2
+401,W202,G,C,T,G,T,A,T,T,T,Laohudao,Indica Intermediate,112.0
+402,W203,G,C,C,T,T,T,T,T,T,Linjintangdao,Indica Intermediate,185.6
+403,W204,G,C,C,T,T,A,T,T,T,Mengguandamagu,Indica I,154.2
+404,W205,G,C,C,T,T,A,T,T,T,Pengshantieganzhan,Indica I,161.8
+405,W206,G,C,T,T,T,A,T,T,C,Wumanggaonuo,Indica Intermediate,112.0
+406,W207,A,C,T,G,T,A,C,T,T,Yunguang8hao,Temperate Japonica,114.6
+407,W208,G,C,T,G,A,A,T,T,T,Zhongchao123,Temperate Japonica,119.6
+408,W209,A,C,T,G,T,A,C,T,T,Gizal159,Temperate Japonica,142.4
+409,W210,G,C,C,T,T,A,T,C,T,Khao_Daeng,Indica I,166.4
+410,W211,G,C,T,G,T,A,T,T,T,Basmati370,Indica II,97.0
+411,W212,G,C,C,T,T,A,T,T,C,Bhavani,Indica Intermediate,159.6
+412,W213,G,C,T,G,T,A,T,T,T,IR50,Indica Intermediate,137.4
+413,W214,G,C,C,G,T,T,C,T,C,Jhona349,Aus,153.8
+414,W215,G,C,C,T,T,T,C,T,C,Karnal_Local,Aus,154.4
+415,W216,G,C,T,G,T,A,T,T,T,Type3,Indica II,113.8
+416,W217,G,C,T,G,T,A,T,T,T,IRAT352,Indica Intermediate,133.8
+417,W218,G,C,T,G,T,A,T,T,T,TB154E-TB-2,Indica Intermediate,133.6
+418,W219,G,C,C,G,T,T,C,C,C,Domsiah,VI/Aromatic,161.0
+419,W220,G,C,C,T,T,T,C,C,C,Tarommolai1,VI/Aromatic,172.0
+420,W221,G,C,C,G,T,A,T,T,T,MR77_(seberang),Indica Intermediate,112.4
+421,W222,G,C,T,T,T,A,T,T,T,ir6,Indica II,115.6
+422,W223,G,C,T,T,T,A,T,C,T,At354,Indica II,103.6
+423,W224,G,C,T,T,T,A,T,T,T,BG304,Indica II,116.0
+424,W225,G,C,T,G,T,A,T,T,T,Lemont,Tropical Japonica,90.2
+425,W226,A,C,T,G,T,A,T,T,T,M401,Temperate Japonica,93.2
+426,W227,G,C,T,G,T,A,T,T,T,OM1706,Indica Intermediate,106.6
+427,W228,G,C,T,T,T,A,T,T,T,OM1723,Indica II,115.0
+428,W229,G,C,T,T,T,A,T,T,T,X21,Indica II,119.4
+429,W230,G,C,T,T,T,A,T,T,T,X22,Indica II,110.4
+430,W231,G,C,T,G,T,A,T,T,T,X23,Indica II,117.0
+431,W233,G,C,T,T,T,A,T,T,T,C70,Indica Intermediate,114.2
+432,W234,G,C,T,G,T,A,T,T,T,Q5,Indica Intermediate,112.8
+433,W235,G,T,C,T,T,T,T,T,C,Suiyangnian,Indica I,148.4
+434,W236,G,C,T,T,T,A,T,T,T,Pokhreli,Indica II,101.8
+435,W237,G,C,T,G,T,A,T,T,T,Govnd,Indica II,115.8
+436,W238,G,C,T,G,T,A,T,T,T,UPR191-66,Indica II,95.4
+437,W239,G,C,T,G,T,A,T,T,C,ASD18,Indica Intermediate,109.8
+438,W240,G,C,T,T,T,A,C,T,T,TGMS29,Indica Intermediate,111.6
+439,W241,G,C,C,G,T,T,T,T,T,Phalguna,Indica II,119.2
+440,W242,G,C,T,G,T,A,T,T,T,Ajaya,Indica Intermediate,106.2
+441,W243,G,C,T,G,T,A,T,T,T,Dodda,Indica II,105.6
+442,W244,G,C,T,T,T,A,T,T,T,Palung_2,Indica II,102.4
+443,W245,G,C,T,T,T,A,T,T,T,TKM6,Indica Intermediate,121.6
+444,W246,G,C,T,T,T,A,T,T,C,RUSTYLATE/Zhong_413,Indica Intermediate,151.0
+445,W247,G,C,C,T,T,A,T,C,T,Yenfangghu,Indica I,170.2
+446,W248,G,C,T,T,T,A,T,T,T,Heimichut,Indica I,145.4
+447,W249,A,C,T,G,A,A,C,T,T,Teksichut,Temperate Japonica,125.8
+448,W250,A,C,T,G,A,A,C,T,T,Eiko,Temperate Japonica,123.2
+449,W251,G,C,T,G,A,A,T,T,T,RUBIO,Tropical Japonica,129.8
+450,W252,G,C,C,G,T,T,C,C,C,SADRI_RICE_1,VI/Aromatic,178.0
+451,W253,G,C,T,G,A,A,T,T,T,Sereendan_Kuning,Tropical Japonica,146.2
+452,W254,G,C,T,G,A,A,T,T,T,SAI-BUI-BAO,Tropical Japonica,143.4
+453,W255,G,C,C,G,T,T,C,C,C,ZIRI,VI/Aromatic,145.8
+454,W256,G,C,C,G,T,A,C,C,C,Dacca6,VI/Aromatic,160.0
+455,W257,G,C,T,G,A,A,T,T,T,Latisai1,Tropical Japonica,171.6
+456,W258,G,C,C,T,T,A,C,C,C,Amareles,VI/Aromatic,158.4
+457,W259,G,C,T,T,T,A,T,T,T,Up15,Indica II,106.0
+458,W260,G,C,T,G,T,A,T,T,C,Uz-Rosz_275,Tropical Japonica,134.0
+459,W261,G,C,T,T,T,T,C,C,C,Ginga,Intermediate,132.4
+460,W262,G,C,T,G,T,A,T,T,T,Bintapan,Indica I,83.8
+461,W263,G,C,T,T,T,A,T,T,T,SADAJIRA-19-303,Indica Intermediate,114.8
+462,W264,G,C,T,T,T,A,T,T,T,CHOROFA,Indica Intermediate,91.4
+463,W265,G,C,T,T,T,A,T,T,T,La110,Indica Intermediate,120.4
+464,W266,G,C,T,T,T,A,T,T,C,Yunjiang35,Indica III,132.6
+465,W267,G,C,T,G,T,A,T,T,T,Yunhui72,Indica Intermediate,114.4
+466,W268,G,C,T,T,T,A,T,T,T,Wudadaozhong,Indica Intermediate,91.4
+467,W269,G,C,T,T,T,A,T,T,C,IR65600-27-1-2-2,Indica Intermediate,96.0
+468,W270,G,C,T,T,T,A,T,T,C,Yetuozai,Indica Intermediate,99.0
+469,W271,G,C,T,T,T,A,T,T,T,P59279,Indica Intermediate,95.8
+470,W272,G,C,C,T,T,T,T,T,C,Tsao_wan_ching,Indica Intermediate,155.6
+471,W273,G,C,T,G,A,A,T,T,C,Anambae_ndanggalasi,Tropical Japonica,156.2
+472,W274,G,C,T,T,T,T,T,T,T,Er_chiu_ching,Indica I,70.8
+473,W275,G,C,T,G,A,A,T,T,T,Heen_goda_wee,Tropical Japonica,148.2
+474,W276,G,C,T,T,T,A,T,T,T,Pathma_wee,Indica III,160.2
+475,W277,G,C,C,T,T,T,C,C,C,Lakkhi_kajal,Aus,142.0
+476,W278,G,C,C,G,T,T,C,C,C,Moisdol,Aus,146.6
+477,W279,G,C,C,G,T,T,C,C,C,Jabor_sail,Aus,166.6
+478,W280,G,C,C,T,T,T,C,T,C,Sada_solay,Aus,145.8
+479,W281,G,C,T,G,T,A,C,T,T,Sholay,Temperate Japonica,150.0
+480,W282,G,C,C,G,T,A,T,T,C,Ma_ba_you_zhan,Indica Intermediate,134.8
+481,W283,A,C,T,G,T,A,C,T,T,Daegujo,Temperate Japonica,68.4
+482,W284,G,C,T,T,A,A,T,T,C,Paikasa,Tropical Japonica,135.4
+483,W285,G,C,T,T,A,A,T,T,T,Uwi,Tropical Japonica,134.6
+484,W286,G,C,C,G,T,T,C,T,C,Garia,Aus,154.8
+485,W287,G,C,C,G,T,T,C,T,C,AUS_449,Aus,150.2
+486,W288,G,C,T,G,A,A,T,T,C,Dourado_Precoce,Tropical Japonica,144.2
+487,W289,G,C,T,G,T,A,T,T,T,IR_661-1-140-3-117,Indica II,104.4
+488,W290,G,C,T,G,T,A,C,C,T,Aichi_Asahi,Temperate Japonica,116.4
+489,W291,G,C,T,T,T,T,T,T,T,IR_2071-625-1-252,Indica II,96.6
+490,W292,G,C,C,G,T,T,C,T,C,Khoia_boro,Aus,164.2
+491,W293,G,C,T,T,T,A,T,T,T,IR_8,Indica II,83.4
+492,W294,G,C,T,T,T,A,T,T,T,LABELLE,Intermediate,118.8
+493,W295,G,C,T,T,T,A,T,T,T,LEBONNET,Indica II,99.6
+494,W296,G,C,C,T,T,T,C,T,C,AUS_371,Aus,138.8
+495,W297,G,C,C,T,T,T,C,T,C,AUS_373,Aus,161.2
+496,W298,G,C,T,T,T,T,T,T,T,IR_36,Indica II,95.2
+497,W299,G,C,T,G,T,T,T,T,T,JAYA,Indica Intermediate,90.8
+498,W300,G,C,T,T,T,A,T,T,T,NEW_BONNET,Tropical Japonica,107.2
+499,W301,G,C,T,G,T,A,T,T,T,IR_64,Indica II,95.6
+500,W302,G,C,T,G,T,A,C,T,T,KUNTLAN,Tropical Japonica,166.8
+501,W303,G,C,T,G,A,A,T,T,T,British_Honduras_Creole,Tropical Japonica,157.8
+502,W304,G,C,T,G,T,T,T,T,T,CPSLO_17,Intermediate,95.8
+503,W305,A,C,T,G,T,A,C,T,T,AKITAKOMACHI,Temperate Japonica,74.0
+504,W306,G,C,T,G,T,T,C,C,C,BASMATI_385,VI/Aromatic,129.6
+505,W307,G,C,T,T,T,A,T,T,T,AGNO_(PSBRC28),Indica II,101.0
+506,W308,G,C,T,T,T,A,T,T,T,PSBRC82,Indica II,109.4
+507,W309,G,C,T,T,T,A,T,T,T,NSICRC122,Indica II,112.2
+508,W310,G,C,C,G,T,A,T,T,T,BRRI_DHAN_29,Indica Intermediate,111.2
+509,W311,G,C,T,G,T,A,T,T,T,PR_116,Indica II,100.6
+510,W312,G,C,T,T,T,A,T,T,T,CIGEULIS,Indica II,111.6
+511,W313,G,C,T,T,T,A,C,T,T,OM_2517,Indica II,110.4
+512,W314,G,C,C,G,T,A,T,T,C,BRRI_DHAN_28,Indica II,111.2
+513,W315,G,C,T,T,T,A,T,T,T,CIBOGO,Indica II,102.0
+514,W316,G,C,T,G,T,A,T,T,T,NEDA,Indica II,99.0
+515,W317,G,C,T,T,T,A,T,T,T,CIHERANG,Indica II,110.4
+516,W318,G,C,T,G,T,A,T,T,T,Qiuqianbai,Indica I,139.3
+517,W319,G,C,T,G,A,A,C,C,C,Guangkexiangnuo,Temperate Japonica,174.2
+518,W320,G,C,C,T,T,T,T,T,C,Wenxiangnuo,Indica Intermediate,177.2
+519,W321,G,C,T,G,T,T,T,T,T,Laozaogu,Indica III,160.6
+520,W322,G,C,T,G,T,A,T,T,T,Lengshuinuo,Indica Intermediate,109.0
+521,W323,A,C,T,G,T,A,C,T,C,Feienuo2,Japonica Intermediate,136.4
+522,W324,G,C,T,G,T,A,C,T,C,Zimangfeie,Japonica Intermediate,156.0
+523,W325,G,C,T,G,A,A,C,T,C,Guantuibaihe,Temperate Japonica,135.8
+524,W326,G,C,T,G,T,A,C,T,C,Haolvguangnian,Japonica Intermediate,155.4
+525,W327,A,C,T,G,T,A,C,T,C,JinghuB,Temperate Japonica,89.8
+526,W328,A,C,T,G,T,A,C,T,T,Sibeitichao6,Intermediate,117.4
+527,W329,G,C,T,G,T,A,T,T,C,GPNO_5055,Tropical Japonica,147.4
+528,W330,G,C,C,T,T,T,C,C,C,ASWINA_330,Aus,149.6
